@@ -10,3 +10,5 @@ __another bold__
 *italic format*
 
 _anothjer italicformat_
+
+_**italic and bold**_
