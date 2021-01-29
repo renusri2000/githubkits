@@ -12,3 +12,9 @@ __another bold__
 _anothjer italicformat_
 
 _**italic and bold**_
+## ordered list
+1. cse
+2. mech 
+3. civil  
+      1. civil(a)
+      2. civil(b)
